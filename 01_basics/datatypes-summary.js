@@ -40,3 +40,12 @@ const myFunction = function(){
 // console.log(typeof _________); 
 
 
+
+
+
+// *****************************STACK AND HEAP MEMORY***********
+
+// Stack(Primitive), Heap(Non-Primitive)
+
+
+

@@ -10,6 +10,7 @@ let accountState;
 
 
 accountEmail = "hc@hc.com"
+// we cannot use let variable within the same scope
 var accountPassword = "21212121"
 accountCity = "Bengaluru"
 
