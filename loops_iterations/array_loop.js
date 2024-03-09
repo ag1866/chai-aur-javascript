@@ -48,7 +48,7 @@ for (const [key, value] of map) {
     
 // }
 
-// yha se apn smjh gye ki object pe to for loop lgega nhi
+// yha se apn smjh gye ki object pe to for of loop lgega nhi
 
 // ab hm for in loop use krenge
 const myObject = {
