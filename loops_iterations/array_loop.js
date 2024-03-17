@@ -62,6 +62,10 @@ for (const key in myObject) {
     // console.log(`${key} shortcut is for ${myObject[key]}`);
 }
 
+for (const key in myObject) {
+    // console.log(key + " : " + myObject[key])
+}
+
 const arr = [1, 2, 3, 4, 5]
 for (const key in arr) {
     // console.log(key); isse kewal index value arhi h
